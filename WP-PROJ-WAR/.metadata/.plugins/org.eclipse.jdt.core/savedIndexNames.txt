@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\lucas\OneDrive\Documentos\ProjetosFaculdade\WP-PROJ-WAR\.metadata\.plugins\org.eclipse.jdt.core
+3671227277.index
+1865797976.index
+1665056807.index

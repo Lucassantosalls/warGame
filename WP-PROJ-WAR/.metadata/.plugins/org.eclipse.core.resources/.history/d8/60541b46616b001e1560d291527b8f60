@@ -1,0 +1,43 @@
+package WarGame;
+
+import java.awt.*;
+import java.awt.event.*;
+import java.util.*;
+import javax.swing.*;
+
+public class WarGame implements ActionListener{
+
+	Random random = new Random();
+	JFrame frame = new JFrame();
+	JPanel titulo_tela = new JPanel();
+	JPanel botoes_tela = new JPanel();
+	JLabel texto = new JLabel();
+	JButton[] butoes = new JButton[9];
+
+	
+	WarGame() {
+		
+	}
+	
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		
+	}
+	
+	public void fase() {
+		
+	}
+	
+	public void verificar() {
+		
+	}
+	
+	public void maquinaGanha() {
+		
+	}
+	
+	public void pessoaGanha() {
+		
+	}
+
+}
